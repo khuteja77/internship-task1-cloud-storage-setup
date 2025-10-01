@@ -1,9 +1,14 @@
 # internship-task1-cloud-storage-setup
 COMPANY: CODETECH IT SOLUTIONS 
+
 NAME: KHUTEJA NAZLEE
+
 INTERN ID :CT04DY2674
+
 DOMAIN: CLOUD COMPUTING
+
 DURATION: 4 WEEKS
+
 MENTOR: NEELA SANTOSH KUMAR 
 
 This repository contains the implementation of *Cloud Storage Setup* as part of CodTech Internship Task 1.  
